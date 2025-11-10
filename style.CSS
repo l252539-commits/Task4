@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(163,206,219);
+    font-family:Georgia,'Times New Roman',Times,serif;
+    margin:0;
+    padding:0;
+
+}
+#container{
+    width: 80%;
+    margin:10px;
+    border:3px solid rgba(80,13,27,0.133);
+    background-color:burlywood;
+    padding:100px;
+    box-shadow:0 0 10px #29030e;
+}
+#header{
+    text-align:centre;
+    border-bottom:2px solid rgb(163,206,219);
+    padding-bottom:10px;
+    margin-bottom:20px;
+
+}
+#sidebar{
+    width: 80%;
+    margin:10px;
+    border:3px solid rgba(80,13,27,0.133);
+    background-color:burlywood;
+    padding:100px;
+
+}
